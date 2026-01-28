@@ -1,9 +1,20 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
-    "name": "laravel/laravel",
+    "name": "hatalabdallah/autopost-social-media",
     "type": "project",
-    "description": "The skeleton application for the Laravel framework.",
-    "keywords": ["laravel", "framework"],
+    "description": "A social media automation tool built with Laravel 11 and FilamentPHP for scheduling and auto-posting to Twitter, Facebook, WhatsApp, LinkedIn, Instagram, and TikTok.",
+    "keywords": [
+        "laravel",
+        "filamentphp",
+        "social-media-automation",
+        "autopost",
+        "twitter-api",
+        "facebook-api",
+        "whatsapp-cloud-api",
+        "linkedin-api",
+        "instagram-api",
+        "tiktok-api"
+    ],
     "license": "MIT",
     "require": {
         "php": "^8.2",
